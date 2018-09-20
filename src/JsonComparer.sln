@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{2426871A-BA38-4D99-A3C8-414442F6E553}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViewModels", "ViewModels\ViewModels.csproj", "{05739B08-82B6-4314-887C-D9F0675D942C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonComparer.WPF", "JsonComparer.WPF\JsonComparer.WPF.csproj", "{9D40139A-89A3-4959-9B89-D8241046A634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2426871A-BA38-4D99-A3C8-414442F6E553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2426871A-BA38-4D99-A3C8-414442F6E553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2426871A-BA38-4D99-A3C8-414442F6E553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2426871A-BA38-4D99-A3C8-414442F6E553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05739B08-82B6-4314-887C-D9F0675D942C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05739B08-82B6-4314-887C-D9F0675D942C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05739B08-82B6-4314-887C-D9F0675D942C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05739B08-82B6-4314-887C-D9F0675D942C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D40139A-89A3-4959-9B89-D8241046A634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D40139A-89A3-4959-9B89-D8241046A634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D40139A-89A3-4959-9B89-D8241046A634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D40139A-89A3-4959-9B89-D8241046A634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76C38D35-582C-4051-9513-8AEB012EEA3E}
+	EndGlobalSection
+EndGlobal
